@@ -2,6 +2,13 @@
 
 > **Status:** Public, anonymised artifact for peer‑review supporting the EMNLP 2025 Industry Track paper *“Talk2Data: A Multimodal Agentic Framework for Conversational Data Analysis”.*  All identifying metadata has been removed; the canonical repository URL will change if the paper is accepted.
 
+<p align="center">
+  <video width="640" controls>
+    <source src="demo.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
+
 ---
 
 ## ✨ What is Talk2Data?
