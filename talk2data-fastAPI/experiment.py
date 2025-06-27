@@ -250,7 +250,7 @@ def run_all_experiments():
     configs = [
         dict(
             dataset_name="otto_group_product",
-            csv_path="evaluation_benchmark/otto_group_product.csv",
+            csv_path="evaluation_benchmark/train.csv",
             commands_path="evaluation_benchmark/otto_group_product.txt",
             out_dir="evaluation_results/otto",
         ),
@@ -262,7 +262,7 @@ def run_all_experiments():
         ),
         dict(
             dataset_name="us_flights_2008",
-            csv_path="evaluation_benchmark/us_flights_2008.csv",
+            csv_path="evaluation_benchmark/2008.csv",
             commands_path="evaluation_benchmark/us_flights_2008.txt",
             out_dir="evaluation_results/flights",
         ),
