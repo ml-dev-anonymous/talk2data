@@ -1,15 +1,12 @@
+
 # Talk2Data (Anonymous EMNLP‑25 Submission)
 
 > **Status:** Public, anonymised artifact for peer‑review supporting the EMNLP 2025 Industry Track paper *“Talk2Data: A Multimodal Agentic Framework for Conversational Data Analysis”.*  All identifying metadata has been removed; the canonical repository URL will change if the paper is accepted.
 
-<p align="center">
-  <video width="640" controls>
-    <source src="demo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</p>
+https://github.com/user-attachments/assets/24e5e7f1-f2ad-40b8-9649-f42d50f71849
 
 ---
+
 
 ## ✨ What is Talk2Data?
 
