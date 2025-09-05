@@ -3,7 +3,7 @@
 
 > **Status:** Public, anonymised artifact for peer-review supporting the IEEE ICDM 2025 BIGIS Workshop paper *“A Multimodal Conversational Agent for Tabular Data Analysis”.*  All identifying metadata has been removed; the canonical repository URL will change if the paper is accepted.
 
-https://github.com/user-attachments/assets/24e5e7f1-f2ad-40b8-9649-f42d50f71849
+https://github.com/user-attachments/assets/ea975371-53bd-4d99-952b-7a86bcf71381
 
 ---
 
